@@ -3,7 +3,7 @@ import java.util.Arrays;
 import com.opencsv.CSVReader;
 
 
-public class CSV {
+public class CSVReader {
 	public static void main(String[] args) {
 		 // List<MyBean> beans comes from somewhere earlier in your code.
 		
